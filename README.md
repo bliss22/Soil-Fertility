@@ -1,6 +1,6 @@
 Soil Fertility Prediction
 Overview
-This Jupyter Notebook repository explores soil fertility prediction using various machine learning models. Leveraging a comprehensive soil fertility dataset, the notebook demonstrates the implementation and training of models such as Support Vector Machine (SVM) classifier, K-Nearest Neighbors (KNN), Logistic Regression, Random Forest (RF) classifier, Decision Tree, and Artificial Neural Network (ANN).
+This repository explores soil fertility prediction using various machine learning models. Leveraging a comprehensive soil fertility dataset, the notebook demonstrates the implementation and training of models such as Support Vector Machine (SVM) classifier, K-Nearest Neighbors (KNN), Logistic Regression, Random Forest (RF) classifier, Decision Tree, and Artificial Neural Network (ANN).
 
 Key Features
 Diverse Models: SVM, KNN, Logistic Regression, RF, Decision Tree, and ANN models are implemented and trained within a Jupyter Notebook environment.
